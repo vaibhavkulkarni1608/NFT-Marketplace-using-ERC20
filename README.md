@@ -4,6 +4,7 @@ Description -
   
   This is the platform where user can mint an NFT using ERC-20 tokens.
   
+  
 Dependencies Used - 
   
   1. AlchemyWeb3 - to make use of Alchemy API
